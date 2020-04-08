@@ -1,6 +1,13 @@
-# clock
+# Animated_Clock
 
-A new Flutter application.
+Simple Animated Clock.
+
+# ScreenShots: 
+
+<img src="https://raw.githubusercontent.com/VaniIndrali/animated_clock/master/images/1.jpg" width="220" height="340" > <br>
+
+<img src="https://raw.githubusercontent.com/VaniIndrali/animated_clock/master/images/2.jpg" width="220" height="340" >
+
 
 ## Getting Started
 
